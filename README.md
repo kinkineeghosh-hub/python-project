@@ -1,2 +1,2 @@
-# python-project
-this a python project
+# SQL project
+
